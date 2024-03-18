@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body {
     background-color: antiquewhite;
   }
@@ -6,4 +10,22 @@ body {
     border-radius: 6px;
     background-color: black;
     color: white;
+  }
+
+  nav{
+    background-color: cyan;
+    padding:12px;
+
+  }
+
+  ul li{
+    display: inline;
+  }
+  a{
+    text-decoration: none;
+    margin-right: 7px;
+  }
+
+  .section{
+    margin: 10px;
   }
