@@ -13,7 +13,7 @@ body {
   }
 
   nav{
-    background-color: cyan;
+    background-color: #000;
     padding:12px;
 
   }
@@ -24,6 +24,7 @@ body {
   a{
     text-decoration: none;
     margin-right: 7px;
+    color:rgb(231, 186, 186);
   }
 
   .section{
